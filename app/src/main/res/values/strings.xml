@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="username">Username</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="pass">password</string>
+    <string name="login">Login</string>
+    <string name="logo">Logo</string>
+    <string name="welcome">Welcome,</string>
+    <string name="subt">Please sign in to continue.</string>
+</resources>
